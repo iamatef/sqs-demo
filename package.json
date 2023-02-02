@@ -1,0 +1,15 @@
+{
+  "name": "sqs-demo",
+  "version": "1.0.0",
+  "description": "This is a test for SQS service which creates a queue, send 50 messages to the queue 10 messages at a time, read the messages from the queue, process them then delete them from the queue ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SQS",
+    "Demo"
+  ],
+  "author": "Mohamed Atef",
+  "license": "ISC"
+}
